@@ -16,11 +16,11 @@ Mechanical Watch
 
 <table>
   <tr>
-    <td><img src="https://github.com/Tonikiller10000/RoboSumo/blob/main/PozeRoboSumo/p5.png" height = 300  ></td>
-    <td><img src="https://github.com/Tonikiller10000/RoboSumo/blob/main/PozeRoboSumo/p4.png" height = 300  ></td>
-    <td><img src="https://github.com/Tonikiller10000/RoboSumo/blob/main/PozeRoboSumo/p1.png" height = 300  ></td>
+    <td><img src="https://github.com/Tonikiller10000/RoboSumo/blob/main/PozeRoboSumo/p5.pn" height = 300  ></td>
+    <td><img src="https://github.com/Tonikiller10000/RoboSumo/blob/main/PozeRoboSumo/p4.pn" height = 300  ></td>
+    <td><img src="https://github.com/Tonikiller10000/RoboSumo/blob/main/PozeRoboSumo/p1.pn" height = 300  ></td>
   </tr>
-
+make png pictures...
 
 </table>
 
