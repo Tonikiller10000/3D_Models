@@ -1,0 +1,19 @@
+PLANETIX is a three-stage planetary gear for a small electric motor. Even at a voltage of one volt, it generates a high torque on the very slowly rotating axle. The gearbox is parametric and modular. This means that you can adjust the number of transmission stages - here 3 - to your requirements, two or six, as you wish.
+
+If you want to build the gearbox on your 3D printer, consider the following:
+
+The output shaft still needs two ball bearings to absorb the forces on the axle. You can modify the blue ring, for example. It can be screwed to the gearbox body with the six holes. First I wanted to see if a printed gearbox works at all. Yes it really turns - a bit bumpy and very loud - but it works. See short video with sound in the download.
+
+Prints everything with the same material - not like me in colorful - that only causes problems. Best is to use a colorless PLA (they print functionally often better than the colored ones) and all parts in the same orientation - everything lying like the gears.
+
+All axles are made of 8mm aluminium tube. Buy the tube before you print the parts and measure if it is 7.8 or 8.2 mm diameter. Then move the surfaces of the holes 0.2-05 mm outwards, otherwise it won't turn smoothly. And you can screw it to something standing or lying on the motor side.
+
+PLANETIX - almost as strong as Obelix!
+
+Translation ratio is about 500:1
+i1 = 1+69/10 = 7,9
+i2 = 7,9*7,9 = 62,4
+i3 = 7,9*7,9*7,9 = 493,0
+
+SolidWorks 2017 / printed on a ender 3
+Antonin T. Clark / June 2020
